@@ -1,5 +1,5 @@
 # Guessing Game Challenge
--- Let's use while loops to create a guessing game.
+- Let's use while loops to create a guessing game.
 
 # The Challenge:
 
